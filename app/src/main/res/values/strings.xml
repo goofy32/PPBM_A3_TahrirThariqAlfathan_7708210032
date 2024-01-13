@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Student Attendance App - Tahrir Thariq Alfathan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in">Log In</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="MataKuliah">
+        <item>PPBM</item>
+        <item>PAM</item>
+        <item>PANCASILA</item>
+        <item>AR</item>
+        <item>AI</item>
+        <item>PEMROGRAMAN SIMULATOR</item>
+    </string-array>
+</resources>
